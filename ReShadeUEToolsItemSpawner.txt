@@ -1,0 +1,786 @@
+[IGNORE]
+This block is ignored. You can write various comments here.
+https://www.nexusmods.com/stalker2heartofchornobyl/mods/450
+
+[UI]
+ui_table_action ` Action
+ui_table_title ` ID/Title
+ui_table_descr ` Description
+ui_button_add ` Add
+ui_button_apply ` Apply
+ui_chekbox_enable ` Enable
+ui_count_descr ` Item count
+ui_add_money ` Add money
+ui_prepared_commands ` Prepared Commands
+ui_execute ` Execute
+ui_clear ` Clear
+
+[Fav`XCreateItemInInventoryByID]
+GrenadeF1 ` F-1 GRENADE ` A classic defensive grenade | 0.05 kg ` #2C3115
+ArmyMedkit ` MEDKIT ARMY ` Health restoration: Maximum | Reduce bleeding: Strong ` #7190F2
+EcoMedkit ` MEDKIT SCIENTIFIC ` Health restoration: Maximum | Reduce bleeding: Medium | Reduce radiation: Strong ` #A97900
+Bandage ` BANDAGE ` Health restoration: Medium | Reduce bleeding: Maximum ` #9C9086
+AntiRad ` ANTI-RADIATION DRUGS ` Reduce radiation: Maximum ` #9A5D93
+Energetic_Limited ` NON STOP LIMITED EDITION ENERGY DRINK ` Increase hunger: Medium | Stamina restoration: Maximum | Stamina costs: Weak | 0.03 kg ` #BBBBC4
+PSYBlocker ` PSI-BLOCK ` Psi-protection: +10.0 | Duration: 60 sec ` #B68188
+Milk ` CONDENSED MILK ` Reduce hunger: Maximum | 0.04 kg ` #777CB9
+FreshBread ` FRESH BREAD ` Health restoration: Medium | Reduce hunger: Strong | 0.03 kg ` #C3B2A5
+
+[Ammo`XCreateItemInInventoryByID]
+A918A ` 9X18MM RGO28 ` Armor-piercing | PTM, APSB, Buket S-2
+A918D ` 9X18MM PST ` Regular | PTM, APSB, Buket S-2
+A045D ` .45 ACP FMJ ` Regular | UDP Compact, M10 Gordon
+A045A ` .45 ACP AP ` Armor-piercing | UDP Compact, M10 Gordon
+A045E ` .45 ACP HP ` Expansive | UDP Compact, M10 Gordon
+AVOG ` VOG-25 ` Regular | GP-25, Grom S-14
+A919D ` 9X19MM FMJ ` Regular | Viper-5, Integral-A, Zubr-19
+A919A ` 9X19MM +P ` Armor-piercing | Viper-5, Integral-A, Zubr-19
+A545D ` 5.45X39MM PS ` Regular | AKM-74U, AKM-74S, Fora-221, Dnipro
+A545A ` 5.45X39MM PP ` Armor-piercing | AKM-74U, AKM-74S, Fora-221, Dnipro
+A545E ` 5.45X39MM MZHV-13 ` Expansive | AKM-74U, AKM-74S, Fora-221, Dnipro
+AHEDP ` HEDP ` Regular | Two-O-Three Underbarrel Grenade Launcher
+A939D ` 9X39MM PA ` Regular | Rhino, VS Vintar, Grom S-14, AS Lavina
+A939A ` 9X39MM SP-6 ` Armor-piercing | Rhino, VS Vintar, Grom S-14, AS Lavina
+A939S ` 9X39MM SP-5 ` Flat | Rhino, VS Vintar, Grom S-14, AS Lavina
+A939E ` 9X39MM PPE ` Expansive | Rhino, VS Vintar, Grom S-14, AS Lavina
+A556D ` 5.56X45MM M885 ` Regular | AR416, GP37, Kharod
+A556A ` 5.56X45MM M995 ` Armor-piercing | AR416, GP37, Kharod
+A556S ` 5.56X45MM MK 262 ` Flat | AR416, GP37, Kharod
+A556E ` 5.56X45MM HP ` Expansive | AR416, GP37, Kharod
+APG7V ` PG-7V ` Regular | RPG-7U
+A762SniperD ` 7.62X54MM LPS ` Regular | SVDM-2, SVU-MK S-3
+A762SniperA ` 7.62X54MM B-32 ` Armor-piercing | SVDM-2, SVU-MK S-3
+A762SniperS ` 7.62X54MM 7N1 ` Flat | SVDM-2, SVU-MK S-3
+A012D ` 12X70MM BUCKSHOT ` Regular | Boomstick, TOZ-34, M860 Cracker, SPSA-14, Saiga D-12, Ram-2
+A012A ` 12X76MM SLUG ` Armor-piercing | Boomstick, TOZ-34, M860 Cracker, SPSA-14, Saiga D-12, Ram-2
+A012E ` 12X76MM EXPANDING DART ` Expansive | Boomstick, TOZ-34, M860 Cracker, SPSA-14, Saiga D-12, Ram-2
+AGA ` GAUSS CARTRIDGE ` Regular | Gauss Gun
+A762D ` 7.62X39MM PS ` Regular | RPM-74
+A762A ` 7.62X39MM BZ ` Armor-piercing | RPM-74
+A762E ` 7.62X39MM LAN ` Expansive | RPM-74
+A762NATOD ` .308 W ` Regular | Mark I EMR, M701 Super
+A762NATOA ` .308 AP ` Armor-piercing | Mark I EMR, M701 Super
+A762NATOS ` .308 MATCH ` Flat | Mark I EMR, M701 Super
+
+[Armor`XCreateItemInInventoryByID]
+Anomaly_Scientific_Armor
+Anomaly_Scientific_Armor_PSY_preinstalled
+Battle_Dolg_Armor
+Battle_Dolg_End_Armor
+Battle_Military_Helmet
+Battle_Monolith_Armor
+Battle_Spark_Armor
+Battle_Svoboda_Armor
+Battle_Varta_Armor
+BattleExoskeleton_Varta_Armor
+Default_Military_Armor
+Exoskeleton_Dolg_Armor
+Exoskeleton_Mercenaries_Armor
+Exoskeleton_Monolith_Armor
+Exoskeleton_Neutral_Armor
+Exoskeleton_Svoboda_Armor
+Heavy_Dolg_Armor
+Heavy_Duty_Helmet
+Heavy_Mercenaries_Armor
+Heavy_Military_Helmet
+Heavy_Svoboda_Armor
+Heavy_Svoboda_Helmet
+Heavy_Varta_Helmet
+Heavy2_Military_Armor
+HeavyAnomaly_Monolith_Armor
+HeavyAnomaly_Scientific_Armor
+HeavyAnomaly_Spark_Armor
+HeavyBattle_Spark_Armor
+HeavyExoskeleton_Dolg_Armor
+HeavyExoskeleton_Monolith_Armor
+HeavyExoskeleton_Svoboda_Armor
+Jacket_Bandit_Armor
+Jemmy_Neutral_Armor
+Light_Bandit_Helmet
+Light_Duty_Helmet
+Light_Mercenaries_Armor
+Light_Mercenaries_Helmet
+Light_Military_Helmet
+Light_Neutral_Helmet
+Middle_Bandit_Armor
+Nasos_Neutral_Armor
+Newbee_Neutral_Armor
+NPC_Agata_Armor
+NPC_Anomaly_Spark_Armor
+NPC_Barmen_Armor
+NPC_Battle_Noon_Armor
+NPC_Batya_Armor
+NPC_Cloak_Heavy_Military_Armor
+NPC_Cloak_Heavy_Neutral_Armor
+NPC_Dalin_Armor
+NPC_Dekhtyarev_Armor
+NPC_Exoskeleton_Coprs_Armor
+NPC_Exoskeleton_Noon_Armor
+NPC_Faust_Armor
+NPC_Heavy_Corps_Armor
+NPC_Heavy_Military_Armor
+NPC_Heavy2_Coprs_Armor
+NPC_Heavy3_Corps_Armor
+NPC_Heavy3Exoskeleton_Coprs_Armor
+NPC_HeavyAnomaly_Noon_Armor
+NPC_HeavyExoskeleton_Mercenaries_Armor
+NPC_HeavyExoskeleton_Noon_Armor
+NPC_HeavyExoskeleton_Spark_Armor
+NPC_Kaymanov_Armor
+NPC_Korshunov_Armor
+NPC_Korshunov_Armor_2
+NPC_Richter_Armor
+NPC_Sci_Armor
+NPC_Sel_Armor
+NPC_Sel_Neutral_Armor
+NPC_Shram_Armor
+NPC_Sidorovich_Armor
+NPC_SkinCloak_Bandit_Armor
+NPC_Spark_Armor
+NPC_Tec_Armor
+NPC_Tyotya_Armor
+Rook_Dolg_Armor
+Rook_Svoboda_Armor
+SciSEVA_Scientific_Armor
+SEVA_Dolg_Armor
+SEVA_Neutral_Armor
+SEVA_Spark_Armor
+SEVA_Svoboda_Armor
+SkinJacket_Bandit_Armor
+TemplateArmor
+TemplateHelmet
+Zorya_Neutral_Armor
+HeavyAnomaly_SIRCA_Armor ` SSP-100M SIRCAA ` 8.0 kg | 3 ` #CC3366FF
+SEVA_Monolith_Armor ` WANDERER SUIT ` 8.0 kg | 3 ` #CC3366FF
+UltraLight_Mercenaries_Armor ` MERCENARY'S LIGHT SUIT ` 2.0 kg | 1 ` #CC3366FF
+Zorya_Tourist_Armor ` TOURIST SUIT ` 3.0 kg | 2 ` #CC3366FF
+HeavyExoskeleton_Varta_Armor ` PSZ-21W SHTURM ` 15.0 kg | 4 ` #CC3366FF
+
+[Artifacts`XCreateItemInInventoryByID]
+AArtifactWeirdBall
+AArtifactWeirdBolt
+AArtifactWeirdFlower
+AArtifactWeirdKettle
+AArtifactWeirdNut
+AArtifactWeirdWater
+CArtifactBouncyBall
+CArtifactBouncyBall_Fake
+CArtifactBubble
+CArtifactBubble_Fake
+CArtifactBun
+CArtifactBun_Fake
+CArtifactBung
+CArtifactBung_Fake
+CArtifactChunkMeat
+CArtifactChunkMeat_Fake
+CArtifactCottonWool
+CArtifactCottonWool_Fake
+CArtifactCrystalThorn
+CArtifactCrystalThorn_Fake
+CArtifactDevilsMushroom
+CArtifactDevilsMushroom_Fake
+CArtifactEchinus
+CArtifactEchinus_Fake
+CArtifactKryptonite
+CArtifactKryptonite_Fake
+CArtifactLiquidStone
+CArtifactLiquidStone_Fake
+CArtifactMica
+CArtifactMica_Fake
+CArtifactPellicle
+CArtifactPellicle_Fake
+CArtifactPlasticine
+CArtifactPlasticine_Fake
+CArtifactRosin
+CArtifactRosin_Fake
+CArtifactSlime
+CArtifactSlime_Fake
+CArtifactSlug
+CArtifactSlug_Fake
+CArtifactThorn
+CArtifactThorn_Fake
+CPrologArtifactSlug
+EArtifactAtom
+EArtifactAtom_Fake
+EArtifactBattery
+EArtifactBattery_Fake
+EArtifactChocolate
+EArtifactChocolate_Fake
+EArtifactCloud
+EArtifactCloud_Fake
+EArtifactCrystalGlass
+EArtifactCrystalGlass_Fake
+EArtifactDope
+EArtifactDope_Fake
+EArtifactDummy
+EArtifactDummy_Fake
+EArtifactFlash
+EArtifactFlash_Fake
+EArtifactJellyFish
+EArtifactJellyFish_Fake
+EArtifactMoonlight
+EArtifactMoonlight_Fake
+EArtifactRazor
+EArtifactRazor_Fake
+EArtifactSnowflake
+EArtifactSnowflake_Fake
+EArtifactSoul
+EArtifactSoul_Fake
+EArtifactSparkler
+EArtifactSparkler_Fake
+EArtifactThunderHedgehog
+EArtifactThunderHedgehog_Fake
+EArtifactTow
+EArtifactTow_Fake
+EArtifactWorm
+EArtifactWorm_Fake
+FArtifactBakedBolts
+FArtifactBakedBolts_Fake
+FArtifactBurntHunk
+FArtifactBurntHunk_Fake
+FArtifactCandle
+FArtifactCandle_Fake
+FArtifactCore
+FArtifactCore_Fake
+FArtifactCrystal
+FArtifactCrystal_Fake
+FArtifactDeadSpong
+FArtifactDeadSponge
+FArtifactDeadSponge_Fake
+FArtifactDrops
+FArtifactDrops_Fake
+FArtifactEye
+FArtifactEye_Fake
+FArtifactFireBall
+FArtifactFireBall_Fake
+FArtifactFireworks
+FArtifactFireworks_Fake
+FArtifactGlass
+FArtifactGlass_Fake
+FArtifactHellishHedgehog
+FArtifactHellishHedgehog_Fake
+FArtifactMomsBeads
+FArtifactMomsBeads_Fake
+FArtifactPlasma
+FArtifactPlasma_Fake
+FArtifactResin
+FArtifactResin_Fake
+FArtifactRingOmnipotence
+FArtifactRingOmnipotence_Fake
+FArtifactSteak
+FArtifactSteak_Fake
+GArtifactBloodStone
+GArtifactBloodStone_Fake
+GArtifactBud
+GArtifactBud_Fake
+GArtifactCompass
+GArtifactCompass_Fake
+GArtifactGoldFish
+GArtifactGoldFish_Fake
+GArtifactGraphiteBlock
+GArtifactGraphiteBlock_Fake
+GArtifactGravy
+GArtifactGravy_Fake
+GArtifactHedgehog
+GArtifactHedgehog_Fake
+GArtifactLandSlug
+GArtifactLandSlug_Fake
+GArtifactNightStar
+GArtifactNightStar_Fake
+GArtifactPlane
+GArtifactPlane_Fake
+GArtifactRubiksCube
+GArtifactRubiksCube_Fake
+GArtifactSplitStone
+GArtifactSplitStone_Fake
+GArtifactSponge
+GArtifactSponge_Fake
+GArtifactSpring
+GArtifactSpring_Fake
+GArtifactStoneDrop
+GArtifactStoneDrop_Fake
+GArtifactTrunk
+GArtifactTrunk_Fake
+GArtifactWrenched
+GArtifactWrenched_Fake
+PArtifactBrain
+PArtifactBrain_Fake
+PQuestArtifactScraper
+PQuestArtifactScraper_Fake
+
+[Attachments`XCreateItemInInventoryByID]
+AK74_DefaultMuz
+AKU_DefaultMuz
+ARSilencerTemplate
+BigMagTemplate
+BottomRailM701
+DefaultMuzzleTemplate
+DefaultScopeGrim
+Dnipro_DefaultMuz
+EN_AutMuz_1
+EN_AutMuz_2
+EN_BuckLaunch_1
+EN_ColimScope_1
+EN_GLaunch_1
+EN_GoloScope_1
+EN_Grip_1
+EN_Grip_2
+EN_Grip_3
+EN_Laser_1
+EN_Silen_1
+EN_Silen_2
+EN_Silen_3
+EN_Silen_4
+EN_SinMuz_1
+EN_SinMuz_2
+EN_SinMuz_3
+EN_SinMuz_4
+EN_SinMuz_5
+EN_X2Scope_1
+EN_X4Scope_1
+EN_X8Scope_1
+Fora_DefaultMuz
+G37_BottomRail
+G37_DefaultMuz
+G37_IronSight
+G37_ScopeRail
+Gauss_DefaultMuz
+Gauss_Scope
+GripTemplate
+Gun_GStreet_MagIncreased
+Gun_RatKiller_MagDefault
+Gun_Shakh_MagIncreased
+Gun_Silence_ColimScope
+Gun_Silence_Silen
+Gun_Sledgehummer_GoloScope
+Gun_Sotnyk_ColimScope
+GunAK_MagPaired
+GunAK74_MagDefault
+GunAK74_MagIncreased
+GunAKU_MagDefault
+GunAKU_Silence_MagDefault
+GunAPB_MagDefault
+GunAPB_MagIncreased
+GunBucket_MagDefault
+GunBucket_MagIncreased
+GunBucket_TopRail
+GunD12_MagDefault
+GunD12_MagIncreased
+GunD12_MagLarge
+GunD12_MagPaired
+GunDecider_MagDefault
+GunDnipro_MagDefault
+GunDnipro_MagPaired
+GunDrowned_MagPaired
+GunFora_MagDefault
+GunFora_MagIncreased
+GunGauss_MagDefault
+GunGauss_MagIncreased
+GunGauss_Scar_MagHuge
+GunGP37_MagDefault
+GunGP37_MagLarge
+GunGP37_MagPaired
+GunGrim_GLaunch
+GunGrim_MagDefault
+GunGrim_MagIncreased
+GunGrim_MagLarge
+GunGvintar_MagDefault
+GunGvintar_MagIncreased
+GunIntegral_FrontExtension
+GunIntegral_MagDefault
+GunIntegral_MagIncreased
+GunKharod_MagDefault
+GunKharod_MagPaired
+GunLavina_MagDefault
+GunLavina_MagIncreased
+GunM10_MagDefault
+GunM10_MagIncreased
+GunM16_MagDefault
+GunM16_MagIncreased
+GunM701_MagDefault
+GunM860_MagLarge
+GunMark_MagDefault
+GunMark_MagIncreased
+GunNovator_MagDefault
+GunPKP_Korshunov_MagLarge
+GunPKP_MagDefault
+GunPKP_MagIncreased
+GunPKP_MagLarge
+GunPM_MagDefault
+GunPM_MagIncreased
+GunPM_Screw
+GunS15_MagDefault
+GunSotnyk_MagDefault
+GunSpitfire_MagDefault
+GunSVDM_MagDefault
+GunSVU_MagDefault
+GunSVU_MagIncreased
+GunSVU_ScopeRail
+GunTank_MagLarge
+GunUDP_MagDefault
+GunUDP_MagIncreased
+GunViper_MagDefault
+GunViper_MagIncreased
+GunZubr_MagDefault
+GunZubr_MagIncreased
+Gvintar_Scope
+HugeMagTemplate
+Ironsights_01
+Ironsights_02
+Ironsights_03
+Ironsights_04
+IronsightTemplate
+Kharod_DefaultMuz
+LaserTemplate
+M16_DefaultMuz
+M701_Colim_Scope
+M701_Scope
+M860LongGrip
+M860ShortGrip
+MagFedM860
+MagTemplate
+Mark_DefaultMuz
+MuzzleTemplate
+PairedMagTemplate
+PistolSilencerTemplate
+RailPicatiniGP37
+RailTemplate
+Ram2_SinMuz_1
+RU_AutMuz_1
+RU_AutMuz_2
+RU_AutMuz_3
+RU_ColimScope_1
+RU_GLaunch_1
+RU_Grip_1
+RU_Grip_2
+RU_Grip_3
+RU_Laser_1
+RU_Silen_1
+RU_Silen_2
+RU_Silen_3
+RU_SinMuz_1
+RU_SinMuz_2
+RU_SinMuz_3
+RU_SinMuz_4
+RU_SinMuz_5
+RU_X2Scope_1
+RU_X4Scope_1
+RU_X8Scope_1
+Sharpshooter_Silen
+SilencerTemplate
+SMGSilencerTemplate
+Sofmod_Silen
+SRSilencerTemplate
+SVDM_DefaultMuz
+SVDM_Scope
+SVU_DefaultMuz
+SVU_Scope
+TemplateAttach
+TemplateScope
+TemplateScopeX2
+TemplateScopeX4
+TemplateScopeX8
+TopRailAKU
+TopRailAPB
+TopRailD12
+TopRailGrim
+TopRailLavina
+TopRailLavinaAlternative
+TopRailM10
+TopRailM860
+TopRailMark
+TopRailPKP
+TopRailRhino
+TopRailSPSA
+TopRailViper
+TopRailZubr
+UDP_Deadeye_Colim
+UnderbarrelTemplate
+Zubr_SinMuz
+
+[Blueprints`XCreateItemInInventoryByID]
+Blueprint_M10_Upgrade_1
+Blueprint_Rhino_Upgrade_1
+Blueprint_APB_Upgrade_1
+Blueprint_APB_Upgrade_2
+Blueprint_Integral_Upgrade_1
+Blueprint_Zubr_Upgrade_1
+Blueprint_Zubr_Upgrade_2
+Blueprint_Gvintar_Upgrade_1
+Blueprint_Grim_Upgrade_1
+Blueprint_Gvintar_Upgrade_2
+Blueprint_Lavina_Upgrade_1
+Blueprint_Lavina_Upgrade_2
+Blueprint_Kharod_Upgrade_1
+Blueprint_Kharod_Upgrade_2
+Blueprint_Dnipro_Upgrade_1
+Blueprint_Dnipro_Upgrade_2
+Blueprint_M701_Upgrade_1
+Blueprint_M701_Upgrade_2
+Blueprint_SVU_Upgrade_1
+Blueprint_SVU_Upgrade_2
+Blueprint_M860_Upgrade_1
+Blueprint_D12_Upgrade_1
+Blueprint_D12_Upgrade_2
+Blueprint_Ram2_Upgrade_1
+Blueprint_Ram2_Upgrade_2
+Blueprint_MG_Upgrade_1
+Blueprint_MG_Upgrade_2
+Blueprint_FaustPsyResist_Quest_1_1
+Blueprint_Heavy2_Military_Armor_Upgrade_1
+Blueprint_Heavy2_Military_Armor_Upgrade_2
+Blueprint_HeavyAnomaly_Scientific_Armor_Upgrade_1
+Blueprint_HeavyAnomaly_Scientific_Armor_Upgrade_2
+Blueprint_Heavy_Svoboda_Armor_Upgrade_1
+Blueprint_Heavy_Svoboda_Armor_Upgrade_2
+Blueprint_Heavy_Dolg_Armor_Upgrade_1
+Blueprint_Heavy_Dolg_Armor_Upgrade_2
+Blueprint_HeavyBattle_Spark_Armor_Upgrade_1
+Blueprint_HeavyBattle_Spark_Armor_Upgrade_2
+Blueprint_SEVA_Neutral_Armor_Upgrade_1
+Blueprint_SEVA_Neutral_Armor_Upgrade_2
+Blueprint_SciSEVA_Scientific_Armor_Upgrade_1
+Blueprint_SciSEVA_Scientific_Armor_Upgrade_2
+Blueprint_SEVA_Svoboda_Armor_Upgrade_1
+Blueprint_SEVA_Svoboda_Armor_Upgrade_2
+Blueprint_SEVA_Spark_Armor_Upgrade_1
+Blueprint_SEVA_Spark_Armor_Upgrade_2
+Blueprint_SEVA_Dolg_Armor_Upgrade_1
+Blueprint_SEVA_Dolg_Armor_Upgrade_2
+Blueprint_BattleExoskeleton_Varta_Armor_Upgrade_1
+Blueprint_BattleExoskeleton_Varta_Armor_Upgrade_2
+Blueprint_BattleExoskeleton_Varta_Armor_Upgrade_3
+Blueprint_BattleExoskeleton_Varta_Armor_Upgrade_4
+Blueprint_Exoskeleton_Mercenaries_Armor_Upgrade_1
+Blueprint_Exoskeleton_Mercenaries_Armor_Upgrade_2
+Blueprint_Exoskeleton_Mercenaries_Armor_Upgrade_3
+Blueprint_Exoskeleton_Mercenaries_Armor_Upgrade_4
+Blueprint_Exoskeleton_Neutral_Armor_Upgrade_1
+Blueprint_Exoskeleton_Neutral_Armor_Upgrade_2
+Blueprint_Exoskeleton_Neutral_Armor_Upgrade_3
+Blueprint_Exoskeleton_Neutral_Armor_Upgrade_4
+Blueprint_Exoskeleton_Svoboda_Armor_Upgrade_1
+Blueprint_Exoskeleton_Svoboda_Armor_Upgrade_2
+Blueprint_Exoskeleton_Svoboda_Armor_Upgrade_3
+Blueprint_Exoskeleton_Svoboda_Armor_Upgrade_4
+Blueprint_HeavyExoskeleton_Svoboda_Armor_Upgrade_1
+Blueprint_HeavyExoskeleton_Svoboda_Armor_Upgrade_2
+Blueprint_HeavyExoskeleton_Svoboda_Armor_Upgrade_3
+Blueprint_HeavyExoskeleton_Svoboda_Armor_Upgrade_4
+Blueprint_Exoskeleton_Dolg_Armor_Upgrade_1
+Blueprint_Exoskeleton_Dolg_Armor_Upgrade_2
+Blueprint_Exoskeleton_Dolg_Armor_Upgrade_3
+Blueprint_Exoskeleton_Dolg_Armor_Upgrade_4
+Blueprint_HeavyExoskeleton_Dolg_Armor_Upgrade_1
+Blueprint_HeavyExoskeleton_Dolg_Armor_Upgrade_2
+Blueprint_HeavyExoskeleton_Dolg_Armor_Upgrade_3
+Blueprint_HeavyExoskeleton_Dolg_Armor_Upgrade_4
+Blueprint_Heavy_Duty_Helmet_Upgrade_1
+Blueprint_Battle_Military_Helmet_Upgrade_1
+Blueprint_Heavy_Svoboda_Helmet_Upgrade_1
+Blueprint_Heavy_Military_Helmet_Upgrade_1
+
+[Consumables`XCreateItemInInventoryByID]
+Bread ` BREAD ` Health restoration: Weak | Reduce hunger: Medium
+FreshBread ` FRESH BREAD ` Health restoration: Medium | Reduce hunger: Strong | 0.03 kg
+CannedFood ` CANNED FOOD ` Health restoration: Medium | Reduce hunger: Strong | 0.04 kg
+Milk ` CONDENSED MILK ` Reduce hunger: Maximum | 0.04 kg
+SpoiledCannedFood ` SPOILED CANNED FOOD ` Damage: Weak | 0.04 kg
+Vodka
+Sausage ` SAUSAGE ` Health restoration: Medium | Reduce hunger: Medium
+Energetic ` NON STOP ENERGY DRINK ` Increase hunger: Weak | Stamina restoration: Strong | Stamina costs: Weak | 0.24 kg
+Energetic_Limited ` NON STOP LIMITED EDITION ENERGY DRINK ` Increase hunger: Medium | Stamina restoration: Maximum | Stamina costs: Weak | 0.03 kg
+Bandage ` BANDAGE ` Health restoration: Medium | Reduce bleeding: Maximum
+Medkit ` MEDKIT ` Health restoration: Strong | Reduce bleeding: Medium
+ArmyMedkit ` MEDKIT ARMY ` Health restoration: Maximum | Reduce bleeding: Strong
+EcoMedkit ` MEDKIT SCIENTIFIC ` Health restoration: Maximum | Reduce bleeding: Medium | Reduce radiation: Strong
+AntiRad ` ANTI-RADIATION DRUGS ` Reduce radiation: Maximum
+Hercules ` HERCULES ` Maximum weight: +20.0 | Duration: 300 sec
+Cinnamon ` VINCA ` Bleeding regeneration increase: +10.0 | Duration: 180 sec
+Beer
+Water
+PSYBlocker ` PSI-BLOCK ` Psi-protection: +10.0 | Duration: 60 sec
+GuitarUsable
+
+[Detectors`XCreateItemInInventoryByID]
+Veles
+Bear
+Echo
+Gilka
+
+[Grenades`XCreateItemInInventoryByID]
+GrenadeRGD5
+GrenadeF1
+
+[Weapons`XCreateItemInInventoryByID]
+GuardGunAK74_ST
+GuardGunAKU_PP
+GuardGunAPB_HG
+GuardGunBucket_PP
+GuardGunD12_SG
+GuardGunDnipro_ST
+GuardGunFora_ST
+GuardGunG37_ST
+GuardGunGrim_ST
+GuardGunGvintar_ST
+GuardGunIntegral_PP
+GuardGunKharod_ST
+GuardGunLavina_ST
+GuardGunM10_HG
+GuardGunM16_ST
+GuardGunM701_SP
+GuardGunM860_SG
+GuardGunMark_SP
+GuardGunObrez_SG
+GuardGunPKP_MG
+GuardGunPM_HG
+GuardGunRam2_SG
+GuardGunRhino_HG
+GuardGunSPSA_SG
+GuardGunSVDM_SP
+GuardGunSVU_SP
+GuardGunTOZ_SG
+GuardGunUDP_HG
+GuardGunViper_PP
+GuardGunZubr_PP
+Gun_Cavalier_SR
+Gun_Combatant_AR
+Gun_Deadeye_HG
+Gun_Decider_AR
+Gun_Drowned_AR
+Gun_Encourage_HG
+Gun_GStreet_HG
+Gun_Krivenko_HG
+Gun_Lummox_AR
+Gun_Lynx_SR
+Gun_Merc_AR
+Gun_Partner_SR
+Gun_Predator_SG
+Gun_ProjectY_HG
+Gun_Rail_SG
+Gun_RatKiller_SMG
+Gun_S15_AR
+Gun_Shakh_SMG
+Gun_Sharpshooter_AR
+Gun_Silence_SMG
+Gun_Sledgehammer_SG
+Gun_SOFMOD_AR
+Gun_Sotnyk_AR
+Gun_Spitfire_SMG
+Gun_Spitter_SMG
+Gun_Star_HG
+Gun_Tank_MG
+Gun_Texas_SG
+Gun_Trophy_AR
+Gun_Unknown_AR
+Gun_Whip_SR
+GunAK74_Korshunov_ST
+GunAK74_ST
+GunAK74_Strelok_ST
+GunAKU_PP
+GunAPB_HG
+GunBucket_PP
+GunD12_SG
+GunDnipro_ST
+GunFora_ST
+GunG37_ST
+GunGauss_Scar_SP
+GunGauss_SP
+GunGrim_ST
+GunGvintar_ST
+GunIntegral_PP
+GunKharod_ST
+GunLavina_ST
+GunM10_HG
+GunM16_ST
+GunM701_SP
+GunM860_SG
+GunMark_SP
+GunObrez_SG
+GunPKP_Korshunov_MG
+GunPKP_MG
+GunPM_HG
+GunRam2_SG
+GunRhino_HG
+GunRpg7_GL
+GunSPSA_SG
+GunSVDM_SP
+GunSVU_Sniper_Duga_SP
+GunSVU_SP
+GunTOZ_SG
+GunUDP_HG
+GunViper_PP
+GunZubr_PP
+Gun_ShotgunMonolith_SG `  `  ` #CC3366FF
+Gun_RifleMonolith_AR `  `  ` #CC3366FF
+Gun_PistolMonolith_HG `  `  ` #CC3366FF
+Gun_Logarithm_SMG `  `  ` #CC3366FF
+Gun_Zvirolov_SR `  `  ` #CC3366FF
+Gun_Gabion_AR `  `  ` #CC3366FF
+Gun_Veteran_AR `  `  ` #CC3366FF
+Gun_ModelSpecial_HG `  `  ` #CC3366FF
+Gun_SMGMonolith_SMG `  `  ` #CC3366FF
+Gun_Novator_AR `  `  ` #CC3366FF
+Gun_Margach_SG `  `  ` #CC3366FF
+
+[Teleport`UETools_TeleportTo`XTeleportTo`You need to activate God Mode before teleporting]
+340931.38 666722.19 409.60 ` Intro ` bad
+367538.00 595014.00 212.17 ` Start
+362269.19 589130.19 750.27 ` Old Bridge
+401922.22 549398.50 698.31 ` Zalissya
+761943.12 712179.81 2849.92 ` Church
+743126.25 764860.44 1989.11 ` East Tower
+767872.62 732877.50 1384.00 ` Fishing Farm
+743319.88 736860.38 1887.85 ` Pumping
+783729.06 756685.00 1621.93 ` Clear Sky
+737051.75 709953.06 1781.97 ` Burnt Farm
+761805.69 726109.50 1428.26 ` North Tower
+1007865.62 36386.11 61790.83 ` Museum ` bad
+317827.75 415159.25 702.566772 ` Rostok
+404030.00, 546800.00, 650.00 ` Zalissya Stash
+421200.00, 411620.00, 2150.00 ` Slag Heap Stash
+488370.00, 517500.00, 380.00 ` Wild Island Stash
+492050.00, 372900.00, 2200.00 ` Cement Factory Stash
+447000.00, 653350.00, -2700.00 ` Rookie Village Stash
+608150.00, 599650.00, 3180.00 ` Icarus Stash
+644090.00, 646230.00, 700.00 ` Shevchenko Stash
+662880.00, 619000.00, 580.00 ` Sultansk Stash
+317400.00, 415600.00, 350.00 ` Rostok Stash
+307090.00, 515580.00, 750.00 ` Chemical plant Stash
+107550.00, 473500.00, 700.00 ` Malachite Stash
+214900.00, 270650.00, 950.00 ` Yaniv Station Stash
+231200.00, 159350.00, 1150.00 ` Enerhetyk Palace of Culture Stash
+498030.00, 527800.00, 850.00 ` Lodochka Lab Stash
+334030.00, 517800.00, 350.00 ` Poppy Field Stash
+542200.00, 334520.00, 650.00 ` Cooling Towers Stash
+182000.00, 635350.00, 700.00 ` Dugan area Journalist Stash
+300000.00, 653350.00, 0.00 ` Burned Forest Stash
+
+[Settings`GAME_SETTINGS``]
+UETools_God|UETools_God ` God mode
+XStartSleep ` Start Sleep
+XRepairCurrentWeapon ` Repair Current Weapon ` Draw your weapon and activate this command
+XGiveWeaponWithAttaches ` Give Weapon With Attaches ` Add a new weapon and its components to the inventory
+XShowGameDataAndTime|XHideGameDataAndTime ` Show Game Data&Time
+XSetWeatherLocked 1|XSetWeatherLocked 0 ` Set Weather Locked
+XSetNoClipGSC true 600|XSetNoClipGSC false ` Fly mode
+XSwitchToWeather Clearly ` Set weather to clear
+XSwitchToWeather Cloudy ` Set weather to cloudy
+XSwitchToWeather Fogy ` Set weather to foggy     
+XSwitchToWeather Stormy ` Set weather to storm
+XSwitchToWeather LightRainy ` Set weather to light rain
+XSwitchToWeather Rainy ` Set weather to rain
+XSwitchToWeather Thundery ` Set weather to thunders 
+XSwitchToWeather CalmBeforeEmission ` Set weather to calm before emission
+XSwitchToWeather Emission ` Set weather to emission 
+
+XSkipTimeHours~count~10 ` Skip Time Hours
+XSetTimeSpeed~count~1 ` Set Time Speed ` default: 1
+XSetPlayerSpeedMultiplier~count~1 ` Set Player Speed ` default: 1
+XSetWeatherTime~count~14 ` Set Game Time ` 0-23h
+XSetWeatherTime 06 00 00 ` Set time to morning
+XSetWeatherTime 12 00 00 ` Set time to noon
+XSetWeatherTime 18 00 00 ` Set time to evening
+XSetWeatherTime 24 00 00 ` Set time to midnight
+UETools_SetJumpHeight~count~700 ` Set Jump Height ` default: 700
+UETools_SetGravityScale~count~2.0 ` Set Gravity Scale` default: 2.0 | (UETools_ResetGravityScale)
